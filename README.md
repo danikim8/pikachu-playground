@@ -27,7 +27,6 @@ Pikachu Playground is a simple web-based interactive game where you can move Pik
    ```
 
 ## Usage
-- Open the browser at `http://localhost:3000/`
 - Use **Arrow Keys** to move Pikachu
 - Press **Spacebar** to make Pikachu jump
 
